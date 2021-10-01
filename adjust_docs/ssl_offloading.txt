@@ -1,4 +1,0 @@
-1. Would like to monitor every possible metrics such as CPU, RAM as these metrics decide the processing power of the server.
-2. However, the NICs to be monitored very closely & frequently in this scenario as it is the entry/exit point of the server which receives encypted traffic & delivers decrypted traffics.
-3. Various monitoring tools available such as Zabbix,Grafana/Promethus & Datadog etc to monitor, according to our feasibility we can choose any of the monitoring tools.
-4. However we can monitor these metrics by logging into the server itself if we have a terminal option.
